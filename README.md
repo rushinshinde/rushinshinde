@@ -62,6 +62,16 @@ I'm a **Full Stack Web Developer with 3+ years of experience** in designing, dev
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushinshinde&theme=tokyonight&hide_border=true" />
 </p>
 
+## ⚡ What I Work With
+
+```text
+Backend        →  C# • .NET • ASP.NET Core • Web API
+Frontend       →  Angular • TypeScript • JavaScript
+Database       →  SQL Server • MySQL • PostgreSQL
+Architecture   →  SOLID • Design Patterns • DI • Microservices
+API            →  REST • JWT Authentication • Entity Framework Core
+Development    →  Git • GitHub • Postman • Jira
+
 ## 🎯 Currently Focused On
 
 - Full Stack .NET Development
