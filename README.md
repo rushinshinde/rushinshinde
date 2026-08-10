@@ -2,11 +2,13 @@
 
 # 👋 Hi, I'm Rushikesh Shinde
 
-### 💻 Full Stack Web Developer | .NET | Angular | SQL
+### 💻 Full Stack Web Developer
 
-> Building scalable, secure and maintainable web applications.
+**3+ Years Experience | C# | .NET | ASP.NET Core | Angular | SQL Server**
 
----
+Building scalable, secure, and maintainable web applications with a strong focus on clean architecture and modern development practices.
+
+📍 Pune, India
 
 ## 👨‍💻 About Me
 
