@@ -87,12 +87,13 @@ Development    →  Git • GitHub • Postman • Jira
 ## 🎓 Education
 
 **PG-DAC — C-DAC, New Delhi**  
-2022
+`2022`
+
+**Master of Computer Science — Savitribai Phule Pune University**  
+`2024`
 
 **B.E. Mechanical Engineering — Savitribai Phule Pune University**  
-2021
-
----
+`2021`
 
 ## 📫 Connect With Me
 
