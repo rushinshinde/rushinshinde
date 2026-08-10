@@ -96,8 +96,29 @@ Development    →  Git • GitHub • Postman • Jira
 
 ## 📫 Connect With Me
 
+<p align="left">
+  <a href="## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/rushinshinde">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rushishinde1399@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 📱 **Phone:** 9922327129  
+📍 **Pune, India**">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rushishinde1399@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-📧 **Email:** rushishinde1399@gmail.com
+---
 
-📍 **Pune, India**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rushinshinde&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
