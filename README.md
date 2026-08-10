@@ -118,7 +118,12 @@ Development    →  Git • GitHub • Postman • Jira
 </p>
 
 ---
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rushinshinde&label=Profile%20Views&color=0e75b6&style=flat" />
+  <b>Thanks for visiting my profile! 👋</b>
+</p>
+
+<p align="center">
+  💻 Full Stack Web Developer • .NET • Angular • SQL
 </p>
