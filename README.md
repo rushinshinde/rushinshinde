@@ -1,3 +1,5 @@
+![Rushikesh Shinde - Full Stack Web Developer](./github-profile-banner.png)
+
 # 👋 Hi, I'm Rushikesh Shinde
 
 ### 💻 Full Stack Web Developer | .NET | Angular | SQL
