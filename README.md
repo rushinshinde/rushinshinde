@@ -76,13 +76,12 @@ Development    →  Git • GitHub • Postman • Jira
 
 ## 🎯 Currently Focused On
 
-- Full Stack .NET Development
-- RESTful API Development
-- Angular Applications
-- Clean & Maintainable Code
-- Modern Software Architecture
-
----
+- 🚀 Building scalable **.NET Web APIs**
+- 🧩 Applying **Clean Architecture & SOLID Principles**
+- 🔐 Implementing secure **REST APIs & JWT Authentication**
+- ⚡ Developing modern **Angular applications**
+- 🗄️ Improving **SQL Server & Entity Framework Core** skills
+- ☁️ Learning modern **cloud & DevOps practices**
 
 ## 🎓 Education
 
