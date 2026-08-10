@@ -52,6 +52,16 @@ I'm a **Full Stack Web Developer with 3+ years of experience** in designing, dev
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rushinshinde&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushinshinde&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 🎯 Currently Focused On
 
 - Full Stack .NET Development
