@@ -14,20 +14,18 @@ Building scalable, secure, and maintainable web applications with a strong focus
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer with 3+ years of experience** in designing, developing and maintaining web applications.
+I'm a **Full Stack Web Developer with 3+ years of experience** building web applications using Microsoft .NET technologies and modern frontend frameworks.
 
-- 🔹 C# | ASP.NET MVC | ASP.NET Core | .NET
-- 🔹 Angular | JavaScript | TypeScript
-- 🔹 SQL Server | MySQL | PostgreSQL
-- 🔹 REST APIs | Entity Framework Core | LINQ
-- 🔹 JWT Authentication | Dependency Injection
-- 🔹 SOLID Principles | Design Patterns | Microservices
-- 🔹 Git | GitHub | Jira
+- 💻 Backend: **C# • .NET • ASP.NET Core • Web API**
+- 🎨 Frontend: **Angular • TypeScript • JavaScript**
+- 🗄️ Database: **SQL Server • MySQL • PostgreSQL**
+- 🏗️ Architecture: **SOLID • Design Patterns • Dependency Injection**
+- 🔐 API & Security: **REST APIs • JWT Authentication**
+- 🧩 ORM & Data: **Entity Framework Core • LINQ**
+- 🛠️ Development: **Git • GitHub • Postman • Jira**
 
-🎓 PG-DAC — C-DAC, New Delhi  
-🎓 B.E. Mechanical Engineering — Savitribai Phule Pune University
-
----
+🎓 **PG-DAC — C-DAC, New Delhi**  
+🎓 **B.E. Mechanical Engineering — Savitribai Phule Pune University**
 
 ## 🛠️ Tech Stack
 
