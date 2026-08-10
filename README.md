@@ -1,4 +1,6 @@
-![Rushikesh Shinde - Full Stack Web Developer](./github-profile-banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rushinshinde/rushinshinde/main/github-profile-banner.png" alt="Rushikesh Shinde - Full Stack Web Developer" width="100%">
+</p>
 
 # 👋 Hi, I'm Rushikesh Shinde
 
