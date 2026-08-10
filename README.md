@@ -18,58 +18,6 @@
 
 ---
 
-## ⚡ My Tech Universe
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### ⚙️ Backend
-
-C#  
-.NET  
-ASP.NET Core  
-Web API  
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨 Frontend
-
-Angular  
-TypeScript  
-JavaScript  
-HTML / CSS  
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️ Data
-
-SQL Server  
-MySQL  
-PostgreSQL  
-EF Core  
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧩 Engineering
-
-REST APIs  
-SOLID  
-Design Patterns  
-Dependency Injection  
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🧠 Currently Exploring
 
 ```text
